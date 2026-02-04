@@ -115,13 +115,6 @@ Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
 
-🔗 Links
-Chrome Web Store Listing
-
-Vibecode Games Website
-
-Report Issues
-
 👨‍💻 Author
 Created with ❤️ for quick gaming breaks
 
