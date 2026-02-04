@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vibecode Games</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header class="header">
+    <span class="title">🎮 Vibecode Games</span>
+    <select id="filter" class="filter">
+      <option value="all">All Games</option>
+      <option value="favorites">⭐ Favorites</option>
+      <option value="arcade">Arcade</option>
+      <option value="puzzle">Puzzle</option>
+      <option value="classic">Classic</option>
+      <option value="chess">Chess</option>
+      <option value="logic">Logic</option>
+      <option value="casino">Casino</option>
+      <option value="tools">Tools</option>
+    </select>
+  </header>
+
+  <div class="search-container">
+    <input 
+      type="text" 
+      id="searchInput" 
+      class="search-input" 
+      placeholder="Search games..."
+    />
+  </div>
+
+  <main id="gamesContainer" class="games-container"></main>
+
+  <footer class="footer">
+    <a href="https://vibecodegames.org" target="_blank">Visit vibecodegames.org</a>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
