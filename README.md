@@ -30,7 +30,7 @@ A Chrome extension that provides quick access to 26+ browser-based games from [v
 
 [Install from Chrome Web Store](https://chromewebstore.google.com/detail/vibecode-games-launcher/pkbbmkkbnpkcjdkmphmmnjdlmhafjmdm)
 
-### Manual Installation (for Development)
+## Manual Installation (for Development)
 
 1. Clone this repository: 
    ```bash
