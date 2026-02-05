@@ -32,7 +32,7 @@ A Chrome extension that provides quick access to 26+ browser-based games from [v
 
 ### Manual Installation (for Development)
 
-1. Clone this repository:
+1. Clone this repository: 
    ```bash
    git clone https://github.com/g/vibecode-games-launcher.git
 Open Chrome and navigate to chrome://extensions/
